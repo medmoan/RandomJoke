@@ -65,7 +65,7 @@ https://official-joke-api.appspot.com/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RandomJokes.git
+git clone https://github.com/medmoan/RandomJokes.git
 ```
 
 2. Open the project in Android Studio.
